@@ -1,4 +1,5 @@
-# ♞ Project Knight Vision
+# ♞ Project Knight Vision -  UNDER DEVELOPMENT PHASE
+
 
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -9,7 +10,7 @@
 ---
 
 ## 🚀 Features
-- 📷 Detects chessboard and recognizes pieces accurately  
+- 📷 Detects chessboard and recognizes pieces . 
 - ♟️ Suggests best moves using Stockfish engine  
 - 🖥️ Real-time camera feed or static image input  
 - 🧠 Generates FEN and evaluates positions  
