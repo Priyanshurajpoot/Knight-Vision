@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Priyanshurajpoot/Project-Knight-Vision?style=social)](https://github.com/Priyanshurajpoot/Project-Knight-Vision/stargazers)
+
 
 **Knight Vision** is an AI-powered chess assistant that detects a chessboard from an image or live feed, identifies all pieces, and recommends optimal moves using the **Stockfish engine**. Perfect for chess enthusiasts, learners, and developers exploring AI-powered board analysis.
 used opencv for live feed and pytorch to train piece recognistion model.
