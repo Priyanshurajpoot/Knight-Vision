@@ -1,5 +1,8 @@
 # Knight Vision 🔍♟️
 
+<img width="150" height="150" alt="Knight Vision" src="https://github.com/user-attachments/assets/9bf60540-f9ac-456a-8eb7-1c0fbfed5b3d" />
+
+
 A real-time chess position recognition and analysis system using computer vision and deep learning. Knight Vision captures chess positions from a camera feed, recognizes pieces using a trained neural network, generates FEN notation, and analyzes positions using Stockfish.
 
 ## Features
@@ -32,7 +35,7 @@ A real-time chess position recognition and analysis system using computer vision
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/knight-vision.git
+git clone https://github.com/Priyanshurajpoot/knight-vision.git
 cd knight-vision
 ```
 
@@ -289,9 +292,7 @@ The system validates FEN strings for:
 - Presence of both kings
 - Non-empty board
 
-## API Reference
 
-See `DOCUMENTATION.md` for detailed API documentation.
 
 ## Contributing
 
@@ -301,9 +302,7 @@ Contributions welcome! Please:
 3. Make your changes with tests
 4. Submit a pull request
 
-## License
 
-MIT License - see LICENSE file for details
 
 ## Acknowledgments
 
@@ -315,8 +314,8 @@ MIT License - see LICENSE file for details
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: support@knightvision.dev
-- Documentation: https://knightvision.dev/docs
+- Email: priyanshux5xraj@gmail.com
+
 
 ## Version History
 
@@ -326,6 +325,8 @@ For issues, questions, or suggestions:
   - Stockfish integration
   - Quality validation
 
----
 
-**Knight Vision** - Bringing computer vision to the royal game ♟️
+
+
+AUTHOR
+- Priyanshu Rajpoot
